@@ -6,3 +6,24 @@
     text-decoration: none;
     margin: 5px 15px;
 }
+
+body{
+    padding: 15px;
+    margin: 20px;
+    background-color: wheat;
+}
+.intro{
+    background-color: rgb(212, 160, 62);
+    border-radius: 10px;
+    padding: 40px;
+}
+.aboutme{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    float: none;
+    align-content: center;
+    text-align: center;
+}
+.handles{
+    background-color: rgb(255, 226, 172);
+    border-radius: 10px;
+}
