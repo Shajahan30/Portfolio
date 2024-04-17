@@ -10,10 +10,10 @@
 body{
     padding: 15px;
     margin: 20px;
-    background-color: wheat;
+    background-color: pink;
 }
 .intro{
-    background-color: rgb(212, 160, 62);
+    background-color:rgb(200, 68, 90);
     border-radius: 10px;
     padding: 40px;
     margin: 5px;
@@ -25,12 +25,12 @@ body{
     text-align: center;
 }
 .handles{
-    background-color: rgb(255, 226, 172);
+    background-color: pink;
     border-radius: 10px;
 }
 
 .skills{
-    background-color: rgb(212, 160, 62);
+    background-color: rgb(200, 68, 90);
     border-radius: 10px;
     padding: 10px;
     margin: 5px;
@@ -43,13 +43,13 @@ h2{
     text-align: center;
 }
 .projects{
-    background-color: rgb(212, 160, 62) ;
+    background-color: rgb(200, 68, 90) ;
     border-radius: 10px;
     padding: 10px;
     margin: 5px;
 }
 .p1, .p2, .p3, .p4{
-    background-color: rgb(255, 226, 172);
+    background-color: pink;
     padding: 10px;
     margin: 5px;
     border-radius: 5px;
